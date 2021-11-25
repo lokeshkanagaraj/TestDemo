@@ -1,4 +1,4 @@
-# QualitestSeleniumBDD: This is a sample web based automation project for Qualitest using Selenium-Cucumber with Java and Maven. Framework used Page Object Model.
+https://github.com/lokeshkanagaraj/TestDemo.git# QualitestSeleniumBDD: This is a sample web based automation project for Qualitest using Selenium-Cucumber with Java and Maven. Framework used Page Object Model.
 
 This framework contains:
 
@@ -10,12 +10,12 @@ Directory Structure:
 
 Steps to run in your system:
 
-Clone the git repository: https://github.com/adarda/QualitestSeleniumTest.git
+Clone the git repository: https://github.com/lokeshkanagaraj/TestDemo.git
 Run the CucumberRunner.java class
 
 Driver under test:
-Chrome
+Chrome Version 96
 
 Test Snapshoots:
-![Result](https://user-images.githubusercontent.com/49127322/132145785-3f9c081e-8bb7-4785-b201-ab10a6c42825.JPG)
+
  
