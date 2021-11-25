@@ -16,7 +16,7 @@ Framework contains:
 
 Framework Structure:
 
-![Directory](C:/Users/Lokesh/Desktop/FS.JPG)
+/TestDemo/src/test/resources/img/FS.JPG
 
 Steps to run in your system:
 
