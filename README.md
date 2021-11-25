@@ -1,5 +1,7 @@
 https://github.com/lokeshkanagaraj/TestDemo.git
+
 # Qualitest Demo:
+
 This project is web based automation project for Qualitest 
 
 Automation Tool: Selenium web driver
@@ -10,14 +12,11 @@ Build Tool : Maven
 Framework contains:
 
 - 1 feature file (AddProductWishlistToCart)
-- 1 scenario (Scenario to add few products to wishlist and add the lowest priced product to cart)
+- 1 scenario (Scenario to add few products to wish list and add the lowest priced product to cart)
 
 Framework Structure:
 
-
-			
-
-
+![Directory](C:/Users/Lokesh/Desktop/FS.JPG)
 
 Steps to run in your system:
 
@@ -27,6 +26,6 @@ Run the CucumberRunner.java class
 Driver under test:
 Chrome Version 96
 
-Thanks1
+Thanks!
 
  
